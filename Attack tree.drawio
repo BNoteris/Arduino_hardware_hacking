@@ -30,6 +30,12 @@
         <mxCell id="TllxWAruNlbua6iccPWR-3" value="Message confirmation of wrong connection protocol" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="185" y="230" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="eC-TjndiXm_nfi5B2WZL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-4" target="eC-TjndiXm_nfi5B2WZL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eC-TjndiXm_nfi5B2WZL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-4" target="eC-TjndiXm_nfi5B2WZL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TllxWAruNlbua6iccPWR-4" value="Point of entry possible confirmed by message asking for password" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="354" y="400" width="120" height="120" as="geometry" />
         </mxCell>
@@ -38,6 +44,12 @@
         </mxCell>
         <mxCell id="TllxWAruNlbua6iccPWR-5" value="USB Serial&amp;nbsp; connection classic port" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="190" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eC-TjndiXm_nfi5B2WZL-1" value="Power analysis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eC-TjndiXm_nfi5B2WZL-2" value="Fault injection" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="570" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
