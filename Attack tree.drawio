@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 OPR/121.0.0.0" version="28.2.5">
   <diagram name="Page-1" id="sOHJUbCXWmSp_o2wKgWZ">
-    <mxGraphModel dx="997" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TllxWAruNlbua6iccPWR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-1" target="TllxWAruNlbua6iccPWR-5">
+        <mxCell id="TllxWAruNlbua6iccPWR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TllxWAruNlbua6iccPWR-1" target="TllxWAruNlbua6iccPWR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-1" target="TllxWAruNlbua6iccPWR-2">
+        <mxCell id="TllxWAruNlbua6iccPWR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TllxWAruNlbua6iccPWR-1" target="TllxWAruNlbua6iccPWR-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-1" value="Physical access" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TllxWAruNlbua6iccPWR-1" value="Physical access" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="374" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-2" target="TllxWAruNlbua6iccPWR-4">
+        <mxCell id="TllxWAruNlbua6iccPWR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TllxWAruNlbua6iccPWR-2" target="TllxWAruNlbua6iccPWR-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-2" value="Hardware adaption of connection protocol with new pins" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TllxWAruNlbua6iccPWR-2" value="Hardware adaption of connection protocol with new pins" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="374" y="250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-3">
+        <mxCell id="TllxWAruNlbua6iccPWR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TllxWAruNlbua6iccPWR-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="290" as="targetPoint" />
             <Array as="points">
@@ -27,16 +27,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-3" value="Message confirmation of wrong connection protocol" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TllxWAruNlbua6iccPWR-3" value="Message confirmation of wrong connection protocol" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="185" y="230" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-4" value="Point of entry confirmed by message" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="374" y="400" width="80" height="80" as="geometry" />
+        <mxCell id="TllxWAruNlbua6iccPWR-4" value="Point of entry possible confirmed by message asking for password" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="354" y="400" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TllxWAruNlbua6iccPWR-5" target="TllxWAruNlbua6iccPWR-3">
+        <mxCell id="TllxWAruNlbua6iccPWR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TllxWAruNlbua6iccPWR-5" target="TllxWAruNlbua6iccPWR-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TllxWAruNlbua6iccPWR-5" value="USB Serial&amp;nbsp; connection classic" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TllxWAruNlbua6iccPWR-5" value="USB Serial&amp;nbsp; connection classic port" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="190" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
