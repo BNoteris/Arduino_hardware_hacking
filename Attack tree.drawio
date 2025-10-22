@@ -43,7 +43,13 @@
           <mxGeometry x="190" y="242.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d5HVsnxlrJFJJSQwK2tO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5HVsnxlrJFJJSQwK2tO-13" target="d5HVsnxlrJFJJSQwK2tO-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="821" />
+              <mxPoint x="530" y="120" />
+              <mxPoint x="840" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="d5HVsnxlrJFJJSQwK2tO-13" value="Hardware setup connection to CW Nano" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="346" y="752.5" width="136" height="136" as="geometry" />
@@ -112,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wy7tbH4edD7NOe-yZh2g-1" value="Correct password&lt;div&gt;use&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Wy7tbH4edD7NOe-yZh2g-1" value="Correct password&lt;div&gt;used&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="185" y="560" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Wy7tbH4edD7NOe-yZh2g-2" value="Secret stored acquired" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -132,6 +138,14 @@
         </mxCell>
         <mxCell id="Wy7tbH4edD7NOe-yZh2g-17" value="Find new tactic" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1210" y="925" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Wy7tbH4edD7NOe-yZh2g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wy7tbH4edD7NOe-yZh2g-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wy7tbH4edD7NOe-yZh2g-19" value="Counter measure:&lt;div&gt;make each comparison use as much power for right and wrong guesses&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="232" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
